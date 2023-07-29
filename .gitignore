@@ -1,0 +1,9 @@
+
+/texts
+/boco/.ipynb_checkpoints
+/notebooks
+corpus.meta.pkl
+corpus.texts.pkl
+.ipynb_checkpoints
+/boco/*/__pycache__
+/boco/__pycache__
