@@ -18,7 +18,7 @@ def search_token(corpus, token, unique=False):
 
     if unique:
 
-        from bocor.filters.filter_by_unique import filter_by_unique
+        from boco.filters.filter_by_unique import filter_by_unique
         return filter_by_unique(out)
 
     return out

@@ -7,3 +7,6 @@ corpus.texts.pkl
 .ipynb_checkpoints
 /boco/*/__pycache__
 /boco/__pycache__
+.DS_Store
+/*/.DS_Store
+/*/*/.DS_Store

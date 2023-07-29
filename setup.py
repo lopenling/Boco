@@ -7,7 +7,7 @@ setup(
     version='v0.3',
     description='A corpus manager for Tibetan Language',
     long_description='Boco corpus manager is used for building, maintaining, and using corpora. The motivation is to make it as straightforward as possible to manage multiple corpora per project, as well as perform cross-corpus operations between those corpora.',
-    url='https://github.com/lopenling/bocor',
+    url='https://github.com/lopenling/boco',
     author='Mikko Kotila',
     author_email='mailme@mikkokotila.com',
     license='MIT',
