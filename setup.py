@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Bocor',
+    name='Boco',
     version='v0.3',
     description='A Corpus Manager for Tibetan Language',
     long_description='A Corpus Manager for Tibetan Language',
