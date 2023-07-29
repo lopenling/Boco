@@ -5,8 +5,8 @@ from setuptools import setup, find_packages
 setup(
     name='Boco',
     version='v0.3',
-    description='A Corpus Manager for Tibetan Language',
-    long_description='A Corpus Manager for Tibetan Language',
+    description='A corpus manager for Tibetan Language',
+    long_description='Boco corpus manager is used for building, maintaining, and using corpora. The motivation is to make it as straightforward as possible to manage multiple corpora per project, as well as perform cross-corpus operations between those corpora.',
     url='https://github.com/lopenling/bocor',
     author='Mikko Kotila',
     author_email='mailme@mikkokotila.com',
