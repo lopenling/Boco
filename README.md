@@ -23,14 +23,14 @@
 
 ## :floppy_disk: Description
 
-The Corpus Builder is used for building, maintaining, and using corpuses. The motivation is to make it as straighforward as possible to manage multiple corpuses per project, as well as perform cross-corpus operations between those corpuses.
+Boco corpus manager is used for building, maintaining, and using corpora. The motivation is to make it as straightforward as possible to manage multiple corpora per project, as well as perform cross-corpus operations between those corpora.
 
 Key features include: 
 
-- Create new corpus
+- Create a new corpus
 - Load corpus from file
-- Add texts to corpus
-- Remove texts from corpus
+- Add texts to the corpus
+- Remove texts from the corpus
 - Save corpus to file
 - Search for tokens in the corpus
 - Search for strings in the corpus
