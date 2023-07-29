@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Corpus Builder</h3>
+<h3 align="center">Boco</h3>
 
 <p align="center">
   
